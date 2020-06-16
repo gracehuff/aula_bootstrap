@@ -1,0 +1,23 @@
+body{
+	font: 20px, arial, sans-serif;
+}
+.navbar{
+	background-color: grey;
+
+}
+.quem-somos{
+	background-color: lightgrey;
+}
+.margin{
+	padding-top: 10px;
+	padding-bottom: 50px;
+}
+.parceiros{
+	background-color: darkgrey;
+}
+.servicos{
+	background-color: lightgrey;
+}
+.foot{
+	background-color: darkgrey;
+}
